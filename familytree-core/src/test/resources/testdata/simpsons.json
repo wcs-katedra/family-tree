@@ -1,0 +1,144 @@
+{
+  "persons": [
+    {
+      "id": 101,
+      "familyName": "Simpson",
+      "givenName": "Abraham",
+      "gender": "MALE",
+      "yearOfBirth": 1927,
+      "yearOfDeath": 2013,
+      "cityOfBirth": "New York",
+      "height": 178,
+      "wifeId": 102
+    },
+    {
+      "id": 102,
+      "familyName": "Simpson",
+      "givenName": "Mona",
+      "gender": "FEMALE",
+      "yearOfBirth": 1931,
+      "cityOfBirth": "San Francisco",
+      "height": 161
+    },
+    {
+      "id": 103,
+      "familyName": "Bouvier",
+      "givenName": "Clancy",
+      "gender": "MALE",
+      "yearOfBirth": 1930,
+      "yearOfDeath": 1996,
+      "cityOfBirth": "Boston",
+      "height": 181,
+      "wifeId": 104
+    },
+    {
+      "id": 104,
+      "familyName": "Bouvier",
+      "givenName": "Jackie",
+      "gender": "FEMALE",
+      "yearOfBirth": 1932,
+      "yearOfDeath": 2012,
+      "cityOfBirth": "Washington",
+      "height": 161
+    },
+    {
+      "id": 105,
+      "familyName": "Simpson",
+      "givenName": "Herb",
+      "gender": "MALE",
+      "yearOfBirth": 1956,
+      "cityOfBirth": "Springfield",
+      "height": 184,
+      "fatherId": 101,
+      "motherId": 102
+    },
+    {
+      "id": 106,
+      "familyName": "Simpson",
+      "givenName": "Homer",
+      "gender": "MALE",
+      "yearOfBirth": 1954,
+      "cityOfBirth": "Springfield",
+      "height": 181,
+      "fatherId": 101,
+      "motherId": 102,
+      "wifeId": 107
+    },
+    {
+      "id": 107,
+      "familyName": "Bouvier",
+      "givenName": "Marge",
+      "gender": "FEMALE",
+      "yearOfBirth": 1957,
+      "cityOfBirth": "Springfield",
+      "height": 165,
+      "fatherId": 103,
+      "motherId": 104
+    },
+    {
+      "id": 108,
+      "familyName": "Bouvier",
+      "givenName": "Patty",
+      "gender": "FEMALE",
+      "yearOfBirth": 1952,
+      "cityOfBirth": "Springfield",
+      "height": 162,
+      "fatherId": 103,
+      "motherId": 104
+    },
+    {
+      "id": 109,
+      "familyName": "Bouvier",
+      "givenName": "Selma",
+      "gender": "FEMALE",
+      "yearOfBirth": 1954,
+      "cityOfBirth": "Springfield",
+      "height": 160,
+      "fatherId": 103,
+      "motherId": 104
+    },
+    {
+      "id": 110,
+      "familyName": "Simpson",
+      "givenName": "Bart",
+      "gender": "MALE",
+      "yearOfBirth": 1982,
+      "cityOfBirth": "Springfield",
+      "height": 145,
+      "fatherId": 106,
+      "motherId": 107
+    },
+    {
+      "id": 111,
+      "familyName": "Simpson",
+      "givenName": "Lisa",
+      "gender": "FEMALE",
+      "yearOfBirth": 1985,
+      "cityOfBirth": "Springfield",
+      "height": 128,
+      "fatherId": 106,
+      "motherId": 107
+    },
+    {
+      "id": 112,
+      "familyName": "Simpson",
+      "givenName": "Maggie",
+      "gender": "FEMALE",
+      "yearOfBirth": 1992,
+      "cityOfBirth": "Springfield",
+      "height": 76,
+      "fatherId": 106,
+      "motherId": 107
+    },
+    {
+      "id": 113,
+      "familyName": "Pong",
+      "givenName": "Ling",
+      "gender": "FEMALE",
+      "yearOfBirth": 1986,
+      "cityOfBirth": "Springfield",
+      "height": 122,
+      "motherId": 109
+    }
+  ]
+}

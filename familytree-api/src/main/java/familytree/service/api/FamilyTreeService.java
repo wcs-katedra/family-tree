@@ -41,9 +41,9 @@ public interface FamilyTreeService {
     Map<Person, Integer> getFathersWithNumberOfChildren();
 
     // Definition of father/mother stream:
-    // 1. It starts with the person with the given id (no matter if male of female).
+    // 1. It starts with the person with the given id (no matter if male or female).
     // 2. The next element is the father/mother of the previous element if the father/mother is existing in the model. Otherwise there is no next element.
-    // Example: person -> father -> grandfather -> ... -> last forfather of person
+    // Example: person -> father -> grandfather -> ... -> last forefather of person
     Stream<Person> fatherStream(int id);
     Stream<Person> motherStream(int id);
 
